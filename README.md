@@ -12,7 +12,7 @@ Movie trailer page shows movies poster image, Name and movie trailer if the post
 * If you are on Linux operating system python is pre installed (nothing to install you are all set).
 * If you are on windows PC then you have to download python compiler from the following link.
 * Remember to check our operating system and download python 32 or 64 bits accordingly.
-* ['Download python']("https://www.python.org/downloads/windows/")
+* !['Download python']("https://www.python.org/downloads/windows/")
 
 ## Usage
 
